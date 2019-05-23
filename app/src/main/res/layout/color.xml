@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <resources>
+    <color android:name="colorPrimary">#008577</color>
+    <color android:name="colorPrimaryDark">#00574B</color>
+    <color android:name="colorAccent">#D81B60</color>
+    <color android:name="year">#999999</color>
+    <color android:name="title">#222222</color>
+    </resources>
+
+</LinearLayout>
